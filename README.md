@@ -11,7 +11,9 @@ The high prevalence of patient absenteeism in medical appointments presents sign
 The current release depends on the following Python libraries:
 
 pandas == 1.5.3
+
 scikit-learn == 1.2.1
+
 imbalanced-learn == 0.10.1
 yellowbrick == 1.5
 numpy == 1.23.5
