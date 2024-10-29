@@ -29,7 +29,7 @@ The [GridSearch](NonShowsCodes/GridSearch) folder  contains the hyperparameter t
 
 The [Models](NonShowsCodes/Models) folder contains the performance metrics and graphs for each computational model by class balancing group.
 
-The file is the original [database](database_non-shows.xlsx.
+The file is the original [database](database_non-shows.xlsx).
 
 
 
