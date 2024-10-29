@@ -23,7 +23,7 @@ numpy == 1.23.5
 seaborn == 0.12.2
 
 ## Data Analysis
-The [DataAnalysis](Non-ShowsML/NonShowsCodes/DataAnalysis) contains the exploratory analysis of the database.
+The [DataAnalysis](NonShowsCodes/DataAnalysis) contains the exploratory analysis of the database.
 
 
 [Portfolio](https://gioudi.github.io/repository)
