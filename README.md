@@ -22,10 +22,9 @@ numpy == 1.23.5
 
 seaborn == 0.12.2
 
-## Folders
+## Data Analysis
+The [DataAnalysis](./DataAnalysis) contains the exploratory analysis of the database.
 
-
-## Live Demo (if available)
 
 [Portfolio](https://gioudi.github.io/repository)
 
