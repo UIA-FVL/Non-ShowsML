@@ -22,8 +22,15 @@ numpy == 1.23.5
 
 seaborn == 0.12.2
 
-## Data Analysis
-The [DataAnalysis](NonShowsCodes/DataAnalysis) contains the exploratory analysis of the database.
+## Folders
+The [DataAnalysis](NonShowsCodes/DataAnalysis) folder contains the exploratory analysis of the database.
+
+The [GridSearch](NonShowsCodes/GridSearch) folder  contains the hyperparameter tuning for each computational model by balancing method.
+
+The [Models](NonShowsCodes/Models) folder contains the performance metrics and graphs for each computational model by class balancing group.
+
+The file is the original [database](database_non-shows.xlsx.
+
 
 
 [Portfolio](https://gioudi.github.io/repository)
